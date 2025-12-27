@@ -20,11 +20,16 @@ EC2 stands for Elastic Compute Cloud.In-short, it's a name for a server that you
 There are certain important configuration that you need to know while launching
 a new EC2 instance in AWS
 
-- The CPU
+1- The CPU
 
--Memory Size
--Operating System (Linux, Windows)
--Storage Capacity
--Authentication
--Key
--Security Group
+2- Memory Size
+
+3- Operating System (Linux, Windows)
+
+4- Storage Capacity
+
+5- Authentication
+
+6-Key
+
+7 Security Group
