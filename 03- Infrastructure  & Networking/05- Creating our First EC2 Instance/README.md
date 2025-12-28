@@ -1,7 +1,7 @@
 # Creating our First EC2 Instance
 
-<div align="center">
-<img src="images/image1.png" alt="IAM Policies" width="25%">
+<div align="left">
+<img src="images/image1.png" alt="IAM Policies" width="5%">
 </div>
 
 ## Overview of EC2
