@@ -13,10 +13,10 @@ In-short, it's a name for a server that you launch in AWS.
 There are certain important configuration that you need to know while launching
 a new EC2 instance in AWS
 
-- The CPU
-- Memory Size
-- Operating System (Linux, Windows)
-- Storage Capacity
-- Authentication
-- Key
-- Security Group
+-The CPU
+-Memory Size
+-Operating System (Linux, Windows)
+-Storage Capacity
+-Authentication
+-Key
+-Security Group
