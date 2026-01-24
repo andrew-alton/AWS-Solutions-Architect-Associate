@@ -4,7 +4,7 @@ At this stage, we have our EC2 instance running.
 We are also able to login to the server using Browser Based SSH or SSH Client.
 
 <div align="center">
-<img src="images/image1.png" alt="IAM Policies" width="80">
+<img src="images/image1.png" alt="IAM Policies" width="80%">
 </div>
 
 ## Aim of Today’s pracice
