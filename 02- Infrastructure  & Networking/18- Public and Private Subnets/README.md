@@ -43,3 +43,31 @@ EC2 in public and private will still work using private IPs.
 <div align="center">
 <img src="images/image5.png" alt="IAM Policies" width="80%">
 </div>
+
+## Public Subnet Configuration
+
+Following is true for Public Subnet:
+
+1. Internet Gateway is Attached to VPC
+2. Route Table has route towards Internet Gateway.
+
+<div align="center">
+<img src="images/image6.png" alt="IAM Policies" width="80%">
+</div>
+
+## Private Subnet Configuration
+
+Following is true for Private Subnet:
+Route Table does not have a route towards Internet Gateway.
+
+<div align="center">
+<img src="images/image7.png" alt="IAM Policies" width="80%">
+</div>
+
+## Steps to Configure Public and Private Subnet
+
+There will be 2 route tables: One for Public Subnet and Second for Private Subnet.
+
+<div align="center">
+<img src="images/image8.png" alt="IAM Policies" width="80%">
+</div>
