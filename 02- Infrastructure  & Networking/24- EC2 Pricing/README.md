@@ -50,7 +50,7 @@ of the on-demand cost.
 Such instances are recommended for applications that can have flexible start and end times
 
 <div align="center">
-<img src="images/image2.png" alt="IAM Policies" width="80%">
+<img src="images/image2.png" alt="IAM Policies" width="20%">
 </div>
 
 ## Savings Plans
