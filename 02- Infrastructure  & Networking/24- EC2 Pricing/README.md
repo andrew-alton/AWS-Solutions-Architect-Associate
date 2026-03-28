@@ -69,5 +69,5 @@ A dedicated host is a physical EC2 server dedicated for your use.
 It can be purchased on-demand as well as reserved instance.
 
 <div align="center">
-<img src="images/image4.png" alt="IAM Policies" width="80%">
+<img src="images/image4.png" alt="IAM Policies" width="20%">
 </div>
