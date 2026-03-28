@@ -1,4 +1,4 @@
-# Launch Templates
+# EC2 Pricing
 
 # Setting the Base
 
