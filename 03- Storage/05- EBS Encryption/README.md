@@ -7,7 +7,7 @@ storage device.
 Multiple Set of Technologies: BitLocker, Apple FileVault and others
 
 <div align="center">
-<img src="images/image2.png" alt="IAM Policies" width="80%">
+<img src="images/image1.png" alt="IAM Policies" width="80%">
 </div>
 
 ## EBS Encryption
