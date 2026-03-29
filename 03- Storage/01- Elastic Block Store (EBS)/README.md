@@ -1,7 +1,7 @@
 # Elastic Block Store (EBS)
 
 <div align="center">
-<img src="images/image1.png" alt="IAM Policies" width="50%">
+<img src="images/image1.png" alt="IAM Policies" width="10%">
 </div>
 
 ## Simple Use-Case: External Hard Disk
