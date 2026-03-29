@@ -1,6 +1,6 @@
 # Elastic Block Store (EBS)
 
-<div align="center">
+<div align="left">
 <img src="images/image1.png" alt="IAM Policies" width="10%">
 </div>
 
