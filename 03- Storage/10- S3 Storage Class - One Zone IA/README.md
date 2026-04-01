@@ -19,7 +19,7 @@ data.
 Data will be lost in-case of availability zone destruction.
 
 <div align="center">
-<img src="images/image1.png" alt="IAM Policies" width="40%">
+<img src="images/image2.png" alt="IAM Policies" width="40%">
 </div>
 
 ## Pricing Comparison
