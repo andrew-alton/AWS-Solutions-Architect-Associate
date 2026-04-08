@@ -52,3 +52,15 @@ Amazon EFS is expensive when compared to other storage options like EBS, S3.
 Connect or AWS VPN connection.
 
 3- With Amazon EFS, you pay only for what you use per month.
+
+### Documentation Link
+
+<https://docs.aws.amazon.com/efs/latest/ug/mounting-fs.html>
+
+### EFS Commands
+
+```
+mkdir ~/efs-mount-point  
+ 
+mount -t nfs -o nfsvers=4.1,rsize=1048576,wsize=1048576,hard,timeo=600,retrans=2,noresvport fs-e29ac903.efs.us-east-1.amazonaws.com:/   ~/efs-mount-point
+```
