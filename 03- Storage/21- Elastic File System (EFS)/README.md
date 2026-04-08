@@ -46,7 +46,9 @@ Amazon EFS is expensive when compared to other storage options like EBS, S3.
 
 ## Points to Note
 
-If performance is your concern, prefer EBS over EFS.
-EFS can even be accessed from on-premise datacenter using an AWS Direct
+1- If performance is your concern, prefer EBS over EFS.
+
+2- EFS can even be accessed from on-premise datacenter using an AWS Direct
 Connect or AWS VPN connection.
-With Amazon EFS, you pay only for what you use per month.
+
+3- With Amazon EFS, you pay only for what you use per month.
