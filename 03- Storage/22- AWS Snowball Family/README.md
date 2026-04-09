@@ -47,7 +47,7 @@ connectivity.
 - 8 TB of usable storage
 
 <div align="center">
-<img src="images/image4.png" alt="IAM Policies" width="75%">
+<img src="images/image4.png" alt="IAM Policies" width="50%">
 </div>
 
 ## Snowball Edge
@@ -57,7 +57,7 @@ compute power for select AWS capabilities
 Available in Multiple Storage Capacity like 100 TB, 40 TB and others.
 
 <div align="center">
-<img src="images/image5.png" alt="IAM Policies" width="75%">
+<img src="images/image5.png" alt="IAM Policies" width="50%">
 </div>
 
 | Device | Description |
