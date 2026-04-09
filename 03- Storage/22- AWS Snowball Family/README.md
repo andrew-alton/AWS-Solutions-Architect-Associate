@@ -57,7 +57,7 @@ compute power for select AWS capabilities
 Available in Multiple Storage Capacity like 100 TB, 40 TB and others.
 
 <div align="center">
-<img src="images/image5.png" alt="IAM Policies" width="50%">
+<img src="images/image5.png" alt="IAM Policies" width="30%">
 </div>
 
 | Device | Description |
