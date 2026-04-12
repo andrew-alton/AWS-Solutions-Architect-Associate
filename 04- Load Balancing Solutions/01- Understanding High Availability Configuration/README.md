@@ -42,3 +42,7 @@ the cost factor and the availability.
 <div align="center">
 <img src="images/image.png" alt="IAM Policies" width="75%">
 </div>
+
+### documents
+
+<https://aws.amazon.com/legal/service-level-agreements/>
