@@ -4,6 +4,9 @@
 
 Classic Load Balancers are the previous generation of load balancers from
 Elastic Load Balancing.
+A Classic Load Balancer makes routing decisions at either the transport layer (TCP/SSL) or the
+application layer (HTTP/HTTPS).
+Previous Generation Load Balancer and not recommended.
 
 <div align="center">
 <img src="images/image1.png" alt="IAM Policies" width="75%">
@@ -24,4 +27,5 @@ Example:
 /php to server 02)
 
 ## usefull documents
+
 <https://aws.amazon.com/elasticloadbalancing>
