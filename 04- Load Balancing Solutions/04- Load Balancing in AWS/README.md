@@ -41,13 +41,10 @@ There are 4 primary type of Load Balancer offerings available.
 
 # Summary Slide
 
-| Load Balancer            | Important Notes                                                                 |
-|--------------------------|----------------------------------------------------------------------------------|
-| Application Load Balancer | Use when you have websites/applications at L7 (HTTP/HTTPS)                      |
-| Network Load Balancers   | TCP and UDP based applications.  
-Requirement to handle millions of requests per second.  
-Ultra high performance.   |
-| Gateway Load Balancer    | Use when you have virtual appliances:  
+# Summary Slide
 
-- IDS/IPS  
-- Firewalls               |
+| Load Balancer | Important Notes |
+|--------------|----------------|
+| Application Load Balancer | Use when you have websites/applications at L7 (HTTP/HTTPS) |
+| Network Load Balancers | TCP and UDP based applications; designed to handle millions of requests per second; ultra-high performance |
+| Gateway Load Balancer | Use when you have virtual appliances such as IDS/IPS and Firewalls |
