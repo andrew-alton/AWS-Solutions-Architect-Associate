@@ -47,6 +47,7 @@ Network Load Balancer target groups support following protocols.
 For TCP traffic, the load balancer selects a target using a flow hash algorithm
 based on the protocol, source IP address, source port, destination IP address,
 destination port, and TCP sequence number.
+
 For UDP traffic, the load balancer selects a target using a flow hash algorithm
 based on the protocol, source IP address, source port, destination IP address,
 and destination port.
