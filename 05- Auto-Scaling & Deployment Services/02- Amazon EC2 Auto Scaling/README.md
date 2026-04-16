@@ -21,6 +21,8 @@ the needs of your applications.
 <img src="images/image2.png" alt="IAM Policies" width="75%">
 </div>
 
+## Types of Scaling
+
 | Scaling Type         | Description |
 |----------------------|-------------|
 | **Manual Scaling**   | User manually adjusts the desired number of EC2 instances. |
