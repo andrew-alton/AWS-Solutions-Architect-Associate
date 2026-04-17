@@ -61,4 +61,7 @@ RAM to 32 GB RAM
 |-----------------|----------------------|
 | Buy a 32 GB RAM stick & install it onto your server | Raise a support ticket and expect response within 15 minutes to 12 hours for response. |
 
-Cloud Provider Way: Resize the Server from Console.
+| Cloud Provider Way |
+|-------------------|
+| Resize the server from the console |
+``
