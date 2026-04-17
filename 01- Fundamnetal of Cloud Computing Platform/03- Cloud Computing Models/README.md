@@ -7,6 +7,9 @@ There are 3 types of Cloud Computing models
 - Platform as a Service (PAAS) [Google App Engine]
 - Infrastructure as a Service (IAAS) [ AWS, Azure, Digital Ocean]
 
+<div align="center">
+<img src="images/image4.png" alt="IAM Policies" width="50%">
+</div>
 
 ## Software as a Service (SAAS)
 
@@ -15,14 +18,15 @@ Softwares are hosted by cloud service provider and users can use it on-demand.
 
 ![My Images](images/image1.png)
 
-
 ## Infrastructure as a Service (IAAS)
 
 Also referred to as Hardware as a Service
 Offers essential compute, storage, and networking resources on demand, on a
 pay-as-you-go basis.
 
-![My Images](images/image2.png)
+<div align="center">
+<img src="images/image2.png" alt="IAM Policies" width="50%">
+</div>
 
 ## Platform as a Service (PAAS)
 
@@ -30,7 +34,6 @@ Offers a flexible, scalable cloud platform to develop, deploy, run, and manage
 apps.
 
 ## ![My Images](images/image3.png)
-
 
 ## Important Learnings - 1
 
