@@ -11,8 +11,8 @@ Standard Older Approach:
 4. Regularly check hard disk health status.
 5. If there are issues with disk, send it to service center.
 
-<div align="left">
-<img src="images/image1.png" alt="IAM Policies" width="50%">
+<div align="center">
+<img src="images/image1.png" alt="IAM Policies" width="40%">
 </div>
 
 ## Requirement - Storage of Files (Cloud Way)
