@@ -64,4 +64,3 @@ RAM to 32 GB RAM
 | Cloud Provider Way |
 |-------------------|
 | Resize the server from the console |
-``
