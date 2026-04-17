@@ -1,5 +1,5 @@
 # Overview AWS acoount Procces
- 
+
  here is the items that you need to do when create account in AWS
 
  1- Create new account
@@ -13,5 +13,9 @@
  5- Create users with proper access and roles
 
  6- Modified sign-in link profile
- 
+
  7- Create Private Key
+
+## Please watch the follwing video to create a free account in AWS
+
+<https://youtu.be/62hWLzFT6hw?si=hS8v4zEZcODKefA1>
