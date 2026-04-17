@@ -24,8 +24,6 @@ analytics, machine learning etc.
 
 The follwing url show you all information about AWS global insfarstarctue:
 
-<https://aws.amazon.com/about-aws/global-infrastructure/regions_az/>
-
 <div align="center">
 <img src="images/image4.png" alt="IAM Policies" width="600">
 </div>
@@ -38,6 +36,8 @@ infrastructure on.
 <div align="center">
 <img src="images/image5.png" alt="IAM Policies" width="600">
 </div>
+
+<https://aws.amazon.com/about-aws/global-infrastructure/regions_az/>
 
 ## Standard Pay As You Go Model
 
