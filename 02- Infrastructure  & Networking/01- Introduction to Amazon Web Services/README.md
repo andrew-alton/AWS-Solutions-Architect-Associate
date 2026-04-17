@@ -9,25 +9,22 @@ types of technology providers in fast-growing markets.
 <img src="images/image1.png" alt="IAM Policies" width="600">
 </div>
 
-## Example - Gartner Magic Quadrant
-
-Area: Public Cloud IT Transformation Services
+## Gartner Report - Startegic Cloud Platform Services
 
 <div align="center">
 <img src="images/image2.png" alt="IAM Policies" width="600">
 </div>
 
-## Gartner Report - Cloud Infrastructure and Platform Services
-
-<div align="center">
-<img src="images/image3.png" alt="IAM Policies" width="600">
-</div>
-
 ## Introduction to AWS
+
 Amazon Web Services (AWS) is the world’s most comprehensive and broadly
 adopted cloud offering more than 200 services.
 AWS has wide range of services for compute, storage, databases, encryption,
 analytics, machine learning etc.
+
+The follwing url show you all information about AWS global insfarstarctue:
+
+<https://aws.amazon.com/about-aws/global-infrastructure/regions_az/>
 
 <div align="center">
 <img src="images/image4.png" alt="IAM Policies" width="600">
@@ -43,9 +40,10 @@ infrastructure on.
 </div>
 
 ## Standard Pay As You Go Model
+
 Pay only for what you use.
 The model works based on per-hour / per-second billing.
 
 <div align="center">
-<img src="images/image6.png" alt="IAM Policies" width="600">
+<img src="images/image6.png" alt="IAM Policies" width="50%">
 </div>
