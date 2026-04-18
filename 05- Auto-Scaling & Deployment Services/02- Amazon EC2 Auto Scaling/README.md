@@ -1,3 +1,4 @@
+
 # Amazon EC2 Auto Scaling
 
 ## Introduction to the Topic
@@ -21,12 +22,11 @@ the needs of your applications.
 <img src="images/image2.png" alt="IAM Policies" width="75%">
 </div>
 
-## Types of Scaling
-
 | Scaling Type         | Description |
 |----------------------|-------------|
-| **Manual Scaling**   | User manually adjusts the desired number of EC2 instances. |
-| **Scheduled Scaling**| Scaling actions occur at specific times based on a schedule. <br><br> **Example:** Add instances at 8 AM and remove them at 6 PM every weekday. |
-| **Dynamic Scaling**  | Automatically adjusts capacity in response to real-time application demand or CloudWatch alarms. <br><br> **Example:** Scale up when CPU exceeds 70% for 5 minutes. |
-| **Predictive Scaling** | Uses machine learning to predict future traffic and adjusts capacity ahead of time. |
-``
+| Manual Scaling       | User manually adjusts the desired number of EC2 instances. |
+| Scheduled Scaling    | Scaling actions occur at specific times based on a schedule.  
+Example: Add instances at 8 AM and remove them at 6 PM every weekday. |
+| Dynamic Scaling      | Automatically adjusts capacity in response to real-time application demand or CloudWatch alarms.  
+Example: Scale up when CPU exceeds 70% for 5 minutes. |
+| Predictive Scaling   | Uses machine learning to predict future traffic and adjusts capacity ahead of time. |
