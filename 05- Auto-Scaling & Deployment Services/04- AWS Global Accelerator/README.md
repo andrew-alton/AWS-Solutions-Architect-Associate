@@ -9,8 +9,8 @@
 Public networks, such as the public internet, can be congested.
 Each hop between and within public networks can introduce performance risks.
 
-<div align="left">
-<img src="images/image2.png" alt="IAM Policies" width="10%">
+<div align="center">
+<img src="images/image2.png" alt="IAM Policies" width="75%">
 </div>
 
 ### How can I test how many hops to destionation?
@@ -28,8 +28,8 @@ the performance of your applications for local and global users.
 Traffic travels over the well-monitored, congestion-free, redundant AWS global
 network to the endpoint
 
-<div align="left">
-<img src="images/image3.png" alt="IAM Policies" width="10%">
+<div align="center">
+<img src="images/image3.png" alt="IAM Policies" width="75%">
 </div>
 
 ## Standard Workflow
@@ -38,16 +38,16 @@ Global Accelerator can have multiple set of endpoints across regions.
 Standard accelerators automatically route traffic to a healthy endpoint that is
 nearest to your user.
 
-<div align="left">
-<img src="images/image4.png" alt="IAM Policies" width="10%">
+<div align="center">
+<img src="images/image4.png" alt="IAM Policies" width="75%">
 </div>
 
 ## Health Check Options
 
 Global Accelerator can also continuously monitors the health of all endpoints, and instantly begins directing traffic for all new connections to another available endpoint when it determines that an active endpoint is unhealthy.
 
-<div align="left">
-<img src="images/image5.png" alt="IAM Policies" width="10%">
+<div align="center">
+<img src="images/image5.png" alt="IAM Policies" width="75%">
 </div>
 
 ### test connection
@@ -58,8 +58,8 @@ if you want to test connection while using AWS Global Accelator you can use "cur
 
 Supported Endpoints: ALB, NLB, EC2, and Elastic IP addresses.
 
-<div align="left">
-<img src="images/image6.png" alt="IAM Policies" width="10%">
+<div align="center">
+<img src="images/image6.png" alt="IAM Policies" width="75%">
 </div>
 
 ## Points to Note
