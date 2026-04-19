@@ -73,3 +73,7 @@ Can integrate with AWS Shield for DDoS protection.
 This tool compares Global Accelerator to the public internet. Choose a file size to see the time to download a file from application endpoints in different AWS Regions to your browser.
 
 <https://speedtest.globalaccelerator.aws/#/>
+
+## AWS Global Accelerator pricing
+
+<https://aws.amazon.com/global-accelerator/pricing/?refid=3b902fe0-bcdd-4075-a945-dc3bb06c6c64>
