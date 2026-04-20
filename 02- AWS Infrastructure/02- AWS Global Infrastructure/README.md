@@ -44,7 +44,7 @@ Lot of Data Centers were also affected.
 - Each availability zone are located at lower-risk locations.
 
 <div align="left">
-<img src="images/image4.png" alt="IAM Policies" width="45%">
+<img src="images/image4.png" alt="IAM Policies" width="55%">
 </div>
 
 ### Example on map
