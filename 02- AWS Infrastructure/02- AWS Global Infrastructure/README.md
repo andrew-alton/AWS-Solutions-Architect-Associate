@@ -50,7 +50,9 @@ Lot of Data Centers were also affected.
 ### Example on map
 
 <div align="center">
-<img src="images/image5.png" alt="IAM Policies" width="45%">
+  <img src="images/image5.png" alt="IAM Policies" width="45%">
+  <br>
+  <em>Canada Region AWS</em>
 </div>
 
 ## AWS Regions
