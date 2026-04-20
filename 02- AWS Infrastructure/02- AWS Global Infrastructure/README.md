@@ -41,8 +41,6 @@ Lot of Data Centers were also affected.
 
 - The AZ are inter-connected with high speed private links.
 
-- Each availability zone are located at lower-risk locations.
-
 <div align="left">
 <img src="images/image4.png" alt="IAM Policies" width="55%">
 </div>
@@ -59,7 +57,7 @@ Lot of Data Centers were also affected.
 
 - Each region contains two or more availability zones.
 
-- AWS has 22 number of regions worldwide and the number keeps increasing.
+- AWS has 39 number of regions worldwide and the number keeps increasing.
 
 <div align="center">
 <img src="images/image6.png" alt="IAM Policies" width="60%">
