@@ -24,7 +24,7 @@ Lot of people were affected.
 Lot of Data Centers were also affected.
 
 <div align="center">
-<img src="images/image3.png" alt="IAM Policies" width="75%">
+<img src="images/image3.png" alt="IAM Policies" width="45%">
 </div>
 
 ## Availability Zone
@@ -44,7 +44,7 @@ Lot of Data Centers were also affected.
 - Each availability zone are located at lower-risk locations.
 
 <div align="left">
-<img src="images/image4.png" alt="IAM Policies" width="745%">
+<img src="images/image4.png" alt="IAM Policies" width="45%">
 </div>
 
 ### Example on map
@@ -59,6 +59,6 @@ Lot of Data Centers were also affected.
 
 - AWS has 22 number of regions worldwide and the number keeps increasing.
 
-<div align="left">
-<img src="images/image6.png" alt="IAM Policies" width="45%">
+<div align="center">
+<img src="images/image6.png" alt="IAM Policies" width="60%">
 </div>
