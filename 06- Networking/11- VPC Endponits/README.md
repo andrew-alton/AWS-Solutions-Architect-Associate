@@ -46,3 +46,11 @@ supported services over AWS private network.
 <div align="center">
 <img src="images/image3.png" width="75%">
 </div>
+
+## Types of VPC Endpoints
+
+There are three primary types of VPC Endpoints that are available
+
+<div align="center">
+<img src="images/image4.png" width="75%">
+</div>
