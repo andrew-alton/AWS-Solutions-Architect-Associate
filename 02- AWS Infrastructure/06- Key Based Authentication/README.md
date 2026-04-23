@@ -6,12 +6,12 @@ There can be multiple methods for authentication against a system.
 Password based authentication is the simplest form.
 
 <div align="center">
-<img src="images/image1.png" alt="IAM Policies" width="600">
-</dive>
+<img src="images/image1.png"  width="600">
+</div>
 
 <div align="center">
-<img src="images/image2.png" alt="IAM Policies" width="600">
-</dive>
+<img src="images/image2.png"  width="600">
+</div>
 
 ## Challenges with Password Based Authentication
 
@@ -23,8 +23,8 @@ Many users write down the passwords in notepad files or as part of sticky notes.
 Most users would not create a complex password that is difficult to hack.
 
 <div align="center">
-<img src="images/image3.png" alt="IAM Policies" width="600">
-</dive>
+<img src="images/image3.png"  width="600">
+</div>
 
 ## Key Based Authentication
 
@@ -36,9 +36,9 @@ If public key is stored in server and is used as authentication mechanism, only 
 corresponding private key can be used to successfully authenticate.
 
 <div align="center">
-<img src="images/image4.png" alt="IAM Policies" width="600">
-</dive>
+<img src="images/image4.png"  width="600">
+</div>
 
 <div align="center">
-<img src="images/image5.png" alt="IAM Policies" width="600">
-</dive>
+<img src="images/image5.png" width="600">
+</div>
