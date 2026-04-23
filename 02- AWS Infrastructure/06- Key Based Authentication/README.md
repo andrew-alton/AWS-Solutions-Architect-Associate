@@ -39,6 +39,8 @@ corresponding private key can be used to successfully authenticate.
 <img src="images/image4.png"  width="600">
 </div>
 
+### key communication process
+
 <div align="center">
 <img src="images/image5.png" width="600">
 </div>
