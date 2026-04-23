@@ -10,7 +10,7 @@ Password based authentication is the simplest form.
 <img src="images/image1.png"  width="600">
 </div>
 
-### response from server
+### Response from server
 
 <div align="center">
 <img src="images/image2.png"  width="600">
