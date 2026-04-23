@@ -5,9 +5,12 @@
 There can be multiple methods for authentication against a system.
 Password based authentication is the simplest form.
 
+
 <div align="center">
 <img src="images/image1.png"  width="600">
 </div>
+
+### response from server
 
 <div align="center">
 <img src="images/image2.png"  width="600">
