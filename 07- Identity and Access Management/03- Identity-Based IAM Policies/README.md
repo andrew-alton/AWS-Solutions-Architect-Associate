@@ -25,11 +25,10 @@ and roles in your AWS account.
 
 ## Managed Policies Categorization
 
-| Managed Policies              | Description                                                                 |
-|------------------------------|-----------------------------------------------------------------------------|
-| AWS managed policies         | Managed policies that are created and managed by AWS.                       |
-| Customer managed policies    | Managed policies that you create and manage in your AWS account.  
-|                              | Customer managed policies provide more precise control over your policies than AWS managed policies. |
+| Managed Policies           | Description                                                                 |
+|----------------------------|-----------------------------------------------------------------------------|
+| AWS managed policies       | Managed policies that are created and managed by AWS.                       |
+| Customer managed policies  | Managed policies that you create and manage in your AWS account, providing more precise control than AWS managed policies. |
 
 ## Reference Screenshot - AWS Managed vs Customer Managed
 
