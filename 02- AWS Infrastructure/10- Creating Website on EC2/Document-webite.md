@@ -4,6 +4,7 @@
 #!/bin/bash
 
 # Update system
+sudu su -
 yum update -y
 
 # Install nginx
