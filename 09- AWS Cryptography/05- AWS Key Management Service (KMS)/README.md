@@ -18,11 +18,11 @@ This service provides capability to encrypt and decrypt the data.
 AWS KMS also integrates with various AWS services like S3, DynamoDB, EBS and others.
 
 <div align="center">
-<img src="images/image2.png"  width="75&">
+<img src="images/image2.png"  width="75%">
 </div>
 
 ### Example Using the AWS CLI to encrypt data on Windows
 
 <div align="center">
-<img src="images/image3.png"  width="75%">
+<img src="images/image3.png"  width="85%">
 </div>
