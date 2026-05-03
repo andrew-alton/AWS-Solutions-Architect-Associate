@@ -7,7 +7,7 @@ vacation.
 Where will you prefer to store the jewellery?
 
 <div align="center">
-<img src="images/image1.png" alt="IAM Policies" width="600">
+<img src="images/image1.png"  width="600">
 </div>
 
 ## Storing Sensitive Digital Keys
@@ -16,7 +16,7 @@ You have sensitive encryption keys that needs to be stored
 Where will you prefer to store the keys?
 
 <div align="center">
-<img src="images/image2.png" alt="IAM Policies" width="600">
+<img src="images/image2.png"  width="600">
 </div>
 
 ## Special Security Device - HSM
@@ -33,7 +33,7 @@ These devices are tamper resistant , that means if anyone tries to tamper, they 
 automatically delete the keys stored.
 
 <div align="center">
-<img src="images/image3.png" alt="IAM Policies" width="600">
+<img src="images/image3.png"  width="600">
 </div>
 
 ## CloudHSM
@@ -47,5 +47,5 @@ validated HSMs.
 there were lot of latency involved.
 
 <div align="center">
-<img src="images/image4.png" alt="IAM Policies" width="600">
+<img src="images/image4.png"  width="600">
 </div>
