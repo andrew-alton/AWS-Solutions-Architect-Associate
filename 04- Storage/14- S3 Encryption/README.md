@@ -66,7 +66,7 @@ encryption as well as the decryption options.
 <img src="images/image5.png"  width="75%">
 </div>
 
-### newu pdate
+### new update
 
 <div align="center">
 <img src="images/image7.png" width="75%">
