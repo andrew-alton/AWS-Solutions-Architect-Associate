@@ -1,13 +1,13 @@
 ## What’s the Need ?
 
 <div align="center">
-<img src="images/image1.png" alt="IAM Policies" width="600">
+<img src="images/image1.png" width="75%">
 </div>
 
 ## Let’s be Proactive
 
 <div align="center">
-<img src="images/image2.png" alt="IAM Policies" width="600">
+<img src="images/image2.png"  width="75%">
 </div>
 
 ## S3 also needs Encryption
@@ -15,17 +15,20 @@
 AWS S3 offers multiple approaches to encrypt the data being stored in S3.
 
 i) Server Side Encryption
-   - Request Amazon S3 to encrypt your object before saving it on disks in its data
+
+- Request Amazon S3 to encrypt your object before saving it on disks in its data
      centers and then decrypt it when you download the objects.
 
 ii) Client Side Encryption
-   - Encrypt data client-side and upload the encrypted data to Amazon S3. In this case,
+
+- Encrypt data client-side and upload the encrypted data to Amazon S3. In this case,
      you manage the encryption process, the encryption keys, and related tools.
 
 ## Server Side Encryption
 
 Within Server-Side encryption, there are three options that can be used depending on the
 use-case.
+
 - Server-Side Encryption with Amazon S3-Managed Keys (SSE-S3)
 - Server-Side Encryption with Customer Master Keys (CMKs) Stored in AWS Key
 Management Service (SSE-KMS)
@@ -39,7 +42,7 @@ i) Server-Side Encryption with Amazon S3-Managed Keys (SSE-S3)
 - Uses one of the strongest block ciphers to encrypt the data, AES 256.
 
 <div align="center">
-<img src="images/image3.png" alt="IAM Policies" width="600">
+<img src="images/image3.png"  width="75%">
 </div>
 
 ## SSE with CMK (SSE-KMS)
@@ -50,16 +53,29 @@ Encrypting data with own CMK allows customers to create, rotate, disable custome
 managed CMK’s. We can also define access controls and enable auditing.
 
 <div align="center">
-<img src="images/image4.png" alt="IAM Policies" width="600">
+<img src="images/image4.png" width="75%">
 </div>
 
 ## SSE with Customer-Provided Keys (SSE-C)
 
-knowledge portal
 Allows customers to set their own encryption keys.
 Encryption key needs to be provided as part of the request and S3 will manage both the
 encryption as well as the decryption options.
 
 <div align="center">
-<img src="images/image5.png" alt="IAM Policies" width="600">
+<img src="images/image5.png"  width="75%">
+</div>
+
+### newu pdate
+
+<div align="center">
+<img src="images/image7.png" width="75%">
+</div>
+
+## Client Side Encryption
+
+Client-side encryption is the act of encrypting data before sending it to Amazon S3.
+
+<div align="center">
+<img src="images/image6.png" width="75%">
 </div>
