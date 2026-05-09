@@ -11,13 +11,13 @@ AWS Config continuously monitors and records changes to resource
 configurations and allows you to see timeline of changes.
 
 <div align="center">
-<img src="images/image2.png"  width="10%">
+<img src="images/image2.png"  width="75%">
 </div>
 
 ## Reference Screenshot - Configuration Changes Shown
 
 <div align="center">
-<img src="images/image6.png"  width="10%">
+<img src="images/image6.png"  width="75%">
 </div>
 
 ## Feature 2 - Audit and Compliance
@@ -26,7 +26,7 @@ AWS Config helps organizations automatically detect policy violations by
 analyzing the resource changes.
 
 <div align="center">
-<img src="images/image3.png"  width="10%">
+<img src="images/image3.png"  width="75%">
 </div>
 
 ## Feature 3 - Conformance Packs
@@ -35,7 +35,7 @@ A conformance pack is a collection of AWS Config rules and remediation actions
 that is built using a common framework.
 
 <div align="center">
-<img src="images/image4.png"  width="10%">
+<img src="images/image4.png"  width="75%">
 </div>
 
 ## Integration with EventBridge
@@ -46,7 +46,7 @@ them to various AWS services or custom targets for automated responses.
 Example: Send an Email when specific compliance to a rule fails.
 
 <div align="center">
-<img src="images/image5.png"  width="10%">
+<img src="images/image5.png"  width="75%">
 </div>
 
 ## AWS Config and AWS CloudTrail
