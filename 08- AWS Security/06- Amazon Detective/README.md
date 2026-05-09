@@ -1,6 +1,6 @@
 
 <div align="center">
-<img src="images/image1.png"  width="10%">
+<img src="images/image2.png"  width="10%">
 </div>
 
 # Amazon Detective
