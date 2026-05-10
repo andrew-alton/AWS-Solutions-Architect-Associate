@@ -1,3 +1,8 @@
+
+<div align="center">
+<img src="images/image1.png"  width="10%">
+</div>
+
 # Firewall Manager
 
 # Understanding the Challenge
@@ -7,18 +12,20 @@ environments (dev, stage, prod)
 Security Team needs to create, maintain and update security services across all of the accounts.
 
 <div align="center">
-<img src="images/image1.png" alt="IAM Policies" width="25%">
+<img src="images/image1.png"  width="75%">
 </div>
 
 AWS Firewall Manager is a security management service which allows you to centrally configure
 and manage firewall rules across your accounts and applications in AWS Organizations
 
 <div align="center">
-<img src="images/image2.png" alt="IAM Policies" width="25%">
+<img src="images/image2.png" width="75%">
 </div>
 
 # Supported Service
+
 Firewall Manager supports wide variety of services, including:
+
 - AWS WAF
 - VPC Security Groups
 - AWS Network Firewall
@@ -28,7 +35,11 @@ Firewall Manager supports wide variety of services, including:
 
 Important Prerequisite: AWS Organizations + AWS Config.
 
-Benefits of Firewall Manager
+## Firewal Manger Pricing
+
+<https://aws.amazon.com/firewall-manager/pricing/>
+
+## Benefits of Firewall Manager
 
 1. Simplify management of firewall rules across your accounts
 
