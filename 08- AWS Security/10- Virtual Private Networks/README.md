@@ -44,5 +44,5 @@ internet connectivity is not allowed.
 Users can only connect to them through Organization’s VPN.
 
 <div align="center">
-<img src="images/image4.png"  width="75%">
+<img src="images/image5.png"  width="75%">
 </div>
