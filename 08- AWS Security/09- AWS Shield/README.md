@@ -1,3 +1,8 @@
+
+<div align="center">
+<img src="images/image3.png"  width="10%">
+</div>
+
 # AWS Shield
 
 ## Understanding AWS Shield
@@ -5,6 +10,7 @@
 AWS Shield is a managed Distributed Denial of Service (DDoS) service that safeguards the
 workloads running on AWS against DDoS attacks.
 There are two tiers of AWS Shield:
+
 - Shield Standard
 
 - Shield Advanced
@@ -28,9 +34,11 @@ infrastructure has scaled, AWS will return you the amount occurred during scalin
 of credits. This is also referred to as Cost protection.
 
 <div align="center">
-<img src="images/image1.png" alt="IAM Policies" width="25%">
+<img src="images/image1.png"  width="75%">
 </div>
 
+## AWS Shield Dashboard
+
 <div align="center">
-<img src="images/image2.png" alt="IAM Policies" width="25%">
+<img src="images/image2.png"  width="75%">
 </div>
