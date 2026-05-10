@@ -1,0 +1,21 @@
+
+# Create SSH key
+
+```
+ssh-kegen
+
+```
+
+# copy ssh key to servers
+
+# # forward SSH Key
+
+```
+exec ssh-agent bash
+eval 'ssh-agent -s'
+ssh-add -L
+ssh-add -K ~/,ssh/id_rsa
+ssh-add -L
+
+ssh -A [ip adress of Bastion Server]
+```
