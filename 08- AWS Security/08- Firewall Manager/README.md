@@ -1,6 +1,6 @@
 
 <div align="center">
-<img src="images/image1.png"  width="10%">
+<img src="images/image3.png"  width="10%">
 </div>
 
 # Firewall Manager
