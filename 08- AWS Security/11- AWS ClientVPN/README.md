@@ -14,7 +14,7 @@ and use it to route traffic to private subnets.
 <img src="images/image1.png" width="75%">
 </div>
 
-Challenges with EC2 VPN Based Architectures
+## Challenges with EC2 VPN Based Architectures
 
 1. High-Availability (What if VPN EC2 goes down)
 2. Patch Management.
