@@ -24,3 +24,11 @@ Based on the instance type, it can configure resource usage accordingly.
 <div align="center">
 <img src="images/image2.png"  width="75%">
 </div>
+
+## enable Metadata accesible
+
+if you want to disble Metadata you can disable this feature ;
+
+<div align="center">
+<img src="images/image3.png"  width="75%">
+</div>
