@@ -11,7 +11,7 @@ Preparing for an sudit is widly considered a time-consuming and manual process.
 Engineers had to mannually take screnshots of configurations and environment to prove that is complies against a specific control.
 
 <div align="center">
-<img src="images/image2.png"  width="10%">
+<img src="images/image2.png"  width="75%">
 </div>
 
 ## Challanges of Audit - Point in Time Checks
@@ -23,7 +23,7 @@ You might be compliant on the day of the audit (Tuseday), but if a configuration
 This left long windwos of unobseerved risk.
 
 <div align="center">
-<img src="images/image3.png"  width="10%">
+<img src="images/image3.png"  width="75%">
 </div>
 
 ## Introducing AWS Audit Manager
@@ -35,5 +35,5 @@ evidence to help you prepare for an audit.
 Intead of humans taking screenshots, Audit Manager contiuously monitors your environment. it automatically snaps "evidence" every time a resource configuration is compliant (or non-compliant)
 
 <div align="center">
-<img src="images/image4.png"  width="10%">
+<img src="images/image4.png"  width="75%">
 </div>
