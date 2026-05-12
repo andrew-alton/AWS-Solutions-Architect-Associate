@@ -1,4 +1,4 @@
-## understanding the challenge
+## Understanding the challenge
 
 - Bookkeeper distributer maintains the list of available of books in it's backend systems.
 
@@ -29,5 +29,5 @@ APIs let you open up access to your resources while maintaining security and con
 - He decided to connect his application to OpenWeatherMap API to fetch the latest reports and populate it in application.
 
 <div align="center">
-<img src="images/image3.png"  width="75%">
+<img src="images/image3.png"  width="40%">
 </div>
