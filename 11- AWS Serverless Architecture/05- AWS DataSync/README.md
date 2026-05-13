@@ -3,7 +3,7 @@
 <img src="images/image5.png"  width="10%">
 </div>
 
-# AWS Data sync
+# AWS Datasync
 
 ## Understanding the Basics
 
