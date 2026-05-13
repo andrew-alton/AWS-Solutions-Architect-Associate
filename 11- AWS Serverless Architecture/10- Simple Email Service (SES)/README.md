@@ -25,3 +25,16 @@ SES which then forwards it to the sender.
 <div align="center">
 <img src="images/image3.png"  width="75%">
 </div>
+
+## Email format in Amazon SES
+
+| Email Format | Description |
+|-------------|-------------|
+| Formatted   | Construct simple test message using the form provided. |
+| Raw         | For more complex use-cases like using HTML or attachments. |
+
+### Raw Mail Example
+
+<div align="center">
+<img src="images/image4.png"  width="75%">
+</div>
