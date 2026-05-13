@@ -1,8 +1,18 @@
 
+<div align="center">
+<img src="images/image1.png"  width="10%">
+</div>
+
+# Amazon Athena
+
+"Query Logs from S3"
+
 Amazon Athena is service that allows us to analyze various log files from a data source using
 standard SQL
 
-![My Image](images/image1.png)
+<div align="center">
+<img src="images/image2.png"  width="75%">
+</div>
 
 ## Approach Before Athena
 
