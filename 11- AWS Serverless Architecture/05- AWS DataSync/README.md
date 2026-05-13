@@ -1,4 +1,11 @@
-# Understanding the Basics
+
+<div align="center">
+<img src="images/image5.png"  width="10%">
+</div>
+
+# AWS Data sync
+
+## Understanding the Basics
 
 AWS DataSync is an online data transfer service that simplifies, automates, and
 accelerates moving data between storage systems and services.
@@ -6,9 +13,12 @@ DataSync provides end-to-end security, including encryption and integrity
 validation, to help ensure that your data arrives securely, intact, and ready to
 use.
 
-![My Image](images/image1.png)
+<div align="center">
+<img src="images/image1.png"  width="75%">
+</div>
 
 ## Supported Endpoints
+
 DataSync can copy data to and from:
 
 - Network File System (NFS) file servers
@@ -23,15 +33,19 @@ DataSync can copy data to and from:
 - Amazon FSx for NetApp ONTAP file systems
 - AWS Snowcone devices
 - Google Cloud Storage buckets
--  Azure Files
+- Azure Files
 
 # Transferring between on-premises storage and AWS
 
-![My Image](images/image2.png)
+<div align="center">
+<img src="images/image2.png"  width="75%">
+</div>
 
 ## Transferring between AWS storage services
 
-![My Image](images/image3.png)
+<div align="center">
+<img src="images/image3.png"  width="75%">
+</div>
 
 ## Transferring data from Google Cloud Storage to Amazon S3
 
@@ -41,4 +55,6 @@ DataSync can copy data to and from:
    the AWS Cloud by using a public endpoint.
 4. The DataSync service writes the data to your S3 bucket.
 
-![My Image](images/image4.png)
+<div align="center">
+<img src="images/image5.png"  width="75%">
+</div>
