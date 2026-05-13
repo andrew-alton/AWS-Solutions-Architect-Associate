@@ -56,5 +56,5 @@ DataSync can copy data to and from:
 4. The DataSync service writes the data to your S3 bucket.
 
 <div align="center">
-<img src="images/image5.png"  width="75%">
+<img src="images/image4.png"  width="75%">
 </div>
