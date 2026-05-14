@@ -22,6 +22,10 @@ to uncover valuable insights and connections in text.
 
 ## Amazon Comprehend - Medical
 
+<div align="center">
+<img src="images/image5.png" width="10%">
+</div>
+
 Amazon Comprehend Medical is a HIPAA-eligible NLP service that uses machine learning to
 understand and extract health data from medical text, such as prescriptions, procedures, or
 diagnoses.
