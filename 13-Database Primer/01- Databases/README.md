@@ -30,7 +30,7 @@ computer system.
 
 There are various types of databases; let’s explore few of them.
 
-1. Flat File
+1- Flat File
 
 A flat-file database is a database that stores data in a plain text file.
 
@@ -40,7 +40,7 @@ Example: Excel
 <img src="images/image3.png"  width="75%">
 </div>
 
-1. Relational Database
+2- Relational Database
 
 Data is organized into tables of columns and rows representing a specific entity type.
 Generally uses SQL (Structured Query Language) to manage databases.
@@ -51,7 +51,7 @@ Example: MySQL
 <img src="images/image4.png"  width="75%">
 </div>
 
-1. NoSQL Databases
+3- NoSQL Databases
 
 NoSQL databases stores and manages data that allows very high speeds and great operational
 flexibility.
@@ -67,7 +67,7 @@ Example: MongoDB, DynamoDB
 Depending on the organizations, they can either decide to manage a database on their own
 servers or use a managed database offerings like RDS.
 
-1. Manage Database Own Servers:
+1- Manage Database Own Servers:
 
 - Provisioning Database.
 - Host Security (Patching, Hardening and others)
@@ -77,7 +77,7 @@ servers or use a managed database offerings like RDS.
 <img src="images/image6.png"  width="75%">
 </div>
 
-1. Managed Database Offering
+2- Managed Database Offering
 
 - Provisioning Database via simple GUI steps.
 - Host Security (Patching, Hardening and others) taken care by the provider.
