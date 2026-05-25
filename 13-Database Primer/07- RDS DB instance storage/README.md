@@ -42,7 +42,7 @@ AWS recommends Provisioned IOPS storage.
 Provisioned IOPS storage is best suited for production environments.
 
 <div align="center">
-<img src="images/image3.png"  width="40%">
+<img src="images/image3.png"  width="65%">
 </div>
 
 ## Comparison Table
