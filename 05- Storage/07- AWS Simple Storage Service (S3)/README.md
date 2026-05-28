@@ -15,8 +15,10 @@ Most of us decides to store our data in external hard disk drives as a backup.
 
 In this approach, we decide to replicate the data in two different hard disk drives.
 Downside:
-● Expensive Approach,
-● If you keep these disk in same location, there is a risk.
+
+- Expensive Approach,
+- 
+- If you keep these disk in same location, there is a risk.
 
 <div align="center">
 <img src="images/image2.png" alt="IAM Policies" width="80%">
@@ -43,7 +45,9 @@ Depending on your use-case, you can select one among them.
 
 - AWS Simple Storage Service (S3) is an object storage designed to store and retrieve any
 amount of data from anywhere
+
 - It is designed for 99.999999999% durability and 99.99% availability.
+- 
 - The aspect that makes AWS S3 so powerful are it’s associated features.
 
 <div align="center">
