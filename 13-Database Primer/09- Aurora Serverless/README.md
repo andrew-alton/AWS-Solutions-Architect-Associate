@@ -26,11 +26,9 @@ can also result in higher costs when you pay for capacity that isn't used.
 
 ## Choices for Customers
 
-Provision for peak --> Expensive
-
-Provision less than peak --> End-user (business) impact  
-
-Continually monitor and adjust capacity manually --> Requires experts & risks outages
+<div align="center">
+<img src="images/image4.png"  width="75%">
+</div>
 
 ## Aurora Serverless
 
@@ -42,8 +40,9 @@ automatically spin it back up.
 
 You set the minimum and maximum capacity.
 
-flowchart LR
-    A["2 GB RAM"] <--> B["488 GB RAM"]
+<div align="center">
+<img src="images/image3.png"  width="75%">
+</div>
 
 ## Pooled Aurora Resources
 
