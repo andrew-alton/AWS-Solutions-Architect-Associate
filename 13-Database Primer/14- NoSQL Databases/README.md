@@ -8,7 +8,7 @@ In a traditional schema database like MySQL, before you start to add data in it,
 define the structure of those records.
 
 <div align="center">
-<img src="images/image1.png"  width="40%">
+<img src="images/image1.png"  width="55%">
 </div>
 
 ## Schema Free Database
@@ -19,7 +19,7 @@ previous structure.
 We can easily group records that do not have a same structure
 
 <div align="center">
-<img src="images/image2.png"  width="40%">
+<img src="images/image2.png"  width="55%">
 </div>
 
 ## Basics of NoSQL Database
@@ -31,7 +31,7 @@ NoSQL have gained huge popularity because they are simpler to use, flexible and 
 performance that are very difficult with traditional relational databases.
 
 <div align="center">
-<img src="images/image3.png"  width="40%">
+<img src="images/image3.png"  width="55%">
 </div>
 
 ## Advantages of NoSQL Database
