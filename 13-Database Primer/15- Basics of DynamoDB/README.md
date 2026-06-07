@@ -15,5 +15,5 @@ Being managed service, it simplifies lots of operations like hardware provisioni
 configurations, patching, replication, clustering etc for the users.
 
 <div align="center">
-<img src="images/image2.png"  width="15%">
+<img src="images/image2.png"  width="65%">
 </div>
