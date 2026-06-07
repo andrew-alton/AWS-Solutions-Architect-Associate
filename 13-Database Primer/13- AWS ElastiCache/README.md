@@ -2,6 +2,7 @@
 <div align="center">
 <img src="images/image.png"  width="15%">
 </div>
+
 # AWS ElastiCache
 
 "Let’s Cache"
@@ -17,7 +18,7 @@
 Imaging the condition of the employee inside that shop after a few days.
 
 <div align="center">
-<img src="images/image1.png"  width="75%">
+<img src="images/image1.png"  width="40%">
 </div>
 
 ## Simple Analogy - Smart Approach
