@@ -7,7 +7,7 @@ In DynamoDB, tables, items, and attributes are the core components that you work
 Table is a collection of items, and each item is a collection of attributes.
 
 <div align="center">
-<img src="images/image1.png"  width="15%">
+<img src="images/image1.png"  width="75%">
 </div>
 
 ## Importance of Primary Key
@@ -19,5 +19,5 @@ Other than the primary key, the table is schemaless, which means that neither th
 their data types need to be defined beforehand.
 
 <div align="center">
-<img src="images/image.png"  width="15%">
+<img src="images/image.png"  width="75%">
 </div>
